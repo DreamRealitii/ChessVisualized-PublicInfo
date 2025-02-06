@@ -1,2 +1,2 @@
 # ChessVisualized-Public
-Chess but you can see where each piece can go.
+Chess but you see where each piece can go.

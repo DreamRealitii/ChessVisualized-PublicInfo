@@ -1,4 +1,4 @@
-# ChessVisualized-Public
+# ChessVisualized-PublicInfo
 Chess but you see where each piece can go. Available on Steam: (Add link when available)
 
 If you think there is something wrong with my game, go to Issues and click New Issue.
